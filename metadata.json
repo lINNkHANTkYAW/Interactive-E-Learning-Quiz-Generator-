@@ -1,0 +1,5 @@
+{
+  "name": "MindSpark AI Learning",
+  "description": "An interactive, gamified e-learning platform powered by Gemini AI. Features distinct teacher/student portals, AI quiz generation, real-time analytics, and accessibility modes including dyslexia support and text-to-speech.",
+  "requestFramePermissions": []
+}
